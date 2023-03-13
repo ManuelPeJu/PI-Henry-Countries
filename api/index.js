@@ -48,7 +48,6 @@ const getApiInfo = async () => {
             subregion: e.subregion,
             area: e.area,
             population: e.population,
-            dishes: e.dishes ? e.dishes : "default"
           })
         })
       })

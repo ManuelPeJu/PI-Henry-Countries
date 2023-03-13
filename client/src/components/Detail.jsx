@@ -51,7 +51,6 @@ const Detail = () => {
                                 <p>Subregion: {myCountry.subregion}</p>
                                 <p>Area: {myCountry.area} km²</p>
                                 <p>Population: {myCountry.population}</p>
-                                <p>Dishes: {myCountry.dishes}</p>
                                 <p>Activities: </p>
                                 
                                 
