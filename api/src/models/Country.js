@@ -41,10 +41,6 @@ module.exports = (sequelize) => {
       type:DataTypes.INTEGER,
     },
 
-    dishes: {
-      type:DataTypes.STRING
-    }
-
   },
   {
     timestamps: false
