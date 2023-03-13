@@ -1,0 +1,31 @@
+{
+    "name": "prueba01",
+    "difficulty": 1,
+    "duration": 5,
+    "season": "Spring",
+    "idCountries": ["ESP", "PER", "CZE"]
+}
+
+{
+    "name": "prueba02",
+    "difficulty": 3,
+    "duration": 12,
+    "season": "Summer",
+    "idCountries": ["ESP", "ATF", "ARM"]
+}
+
+{
+    "name": "prueba03",
+    "difficulty": 5,
+    "duration": 3,
+    "season": "Winter",
+    "idCountries": ["BHS", "BLZ", "BMU"]
+}
+
+{
+    "name": "prueba04",
+    "difficulty": 4,
+    "duration": 8,
+    "season": "Autumn",
+    "idCountries": ["ESP", "PER", "CZE"]
+}

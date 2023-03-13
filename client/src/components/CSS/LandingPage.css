@@ -1,0 +1,56 @@
+.landing-page {
+    background: url("C:\Users\manol\Desktop\PI-Countries-main-2\client\src\images\400645.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-landing {
+    background-color: #ff7e00;
+    color: #1C3C55;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    height: 45px;
+    /* padding: 1rem 2rem; */
+    margin-bottom: 10vh;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 9px 9px 4px 0px rgba(0, 0, 0, 0.500);
+
+}
+
+.button-landing:hover {
+    font-weight: normal;
+    background-color: #ffaf5f;
+}
+
+
+.landing-page h1{
+    border-radius: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.600);
+    margin: 1;
+    padding: 1;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding-inline: 10px;
+    align-self: flex-start;
+    box-shadow: 4px 4px 10px 25px rgba(0, 0, 0, 0.600);
+    /* color: rgb(245, 245, 245);  */
+
+  }
+
+.parrafos {
+    border-radius: 10px;
+    background-color: whitesmoke;
+    font-style:oblique;
+    
+}
+
+.parrafos p {
+    color:red
+}
